@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uptoimage</string>
+    <string name="ok">OK</string>
+
+    <string name="permission_camera_rationale">Camera permission is needed to show the camera preview.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="empty" />
+    <string name="scale">放大縮小</string>
+</resources>
